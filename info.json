@@ -1,0 +1,19 @@
+{
+  "name": "angels-paper-basic-board",
+  "version": "1.0.0",
+  "title": "Angel's Paper Basic Insulating Board",
+  "author": "Marsonge",
+  "contact": "tim.caillot@gmail.com",
+  "homepage": "https://github.com/Marsonge/angels-liquid-alloy-mixing",
+  "factorio_version": "1.1",
+  "description": "Re-adding the basic board paper recipe.",
+  "dependencies": [
+    "angelsbioprocessing >= 0.7.25"
+  ],
+  "factride_metadata": {
+    "ignore_files": [],
+    "ignore_folders": [
+      ".git/"
+    ]
+  }
+}
